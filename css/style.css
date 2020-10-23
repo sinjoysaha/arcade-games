@@ -5,8 +5,13 @@ body {
     background-color: #272727;
     margin: 0;
 }
-h1, h2, a {
-    font-size: 2.5vw;
+h1, h2 {
+    font-size: calc(12px + 1.2vw);
+    text-decoration: none;
+    color: #000000;
+}
+a {
+    font-size: calc(12px + 1.2vw);
     text-decoration: none;
     color: #000000;
 }
@@ -23,11 +28,29 @@ header {
 }
 #header-container {
     width: 86%;
+    height: 80px;
     margin: auto;
+    position: relative;
+    text-align: center;
 }
 #header-container:after {
     clear: both;
-  }
+}
+.col-1 {
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 86%;
+    height: calc(10px + 20%);
+    margin: auto;
+    padding: 10px;
+    position: absolute;
+}
+.col-1 a {
+    font-size: calc(12px + 1.2vw);    
+    font-weight: bold;
+}
 .main-container {
     padding-top: 50px;
     margin: auto;
@@ -54,8 +77,12 @@ header {
     border: 5px solid black;
     background-color: #c0c0c0;
 }
-.square-cell h2 {
-    padding-top: 25%;
+.game-name {
+    padding-top: 30%;
+}
+.game-name a {
+    font-size: calc(12px + 1.2vw);    
+    font-weight: bold;
 }
 .body-row:after {
     content: "";

@@ -20,7 +20,7 @@
 
 
 ## About the Project
-This website is a collection of the nostalgic arcade games built with :love: using plain javascript.
+This website is a collection of the nostalgic arcade games built with :heart: using plain javascript.
 
 [![Project Image](docs/images/projectimage.png)](https://sinjoysaha.github.io/arcade-games/)
 

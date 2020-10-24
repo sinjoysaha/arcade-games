@@ -8,8 +8,8 @@
 [![GitHub issues](https://img.shields.io/github/issues/sinjoysaha/arcade-games.svg)](https://GitHub.com/sinjoysaha/arcade-games/issues/)
 [![Profile views](https://gpvc.arturio.dev/sinjoysaha)](https://GitHub.com/sinjoysaha/)
 [![GitHub followers](https://img.shields.io/github/followers/sinjoysaha.svg)](https://github.com/sinjoysaha?tab=followers)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?logo=linkedin&color=333)](https://linkedin.com/in/sinjoysaha)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue.svg?logo=twitter)](https://twitter.com/SinjoySaha)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&color=545454)](https://linkedin.com/in/sinjoysaha)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue.svg?style=flat-square&logo=twitter&color=b3e0ff)](https://twitter.com/SinjoySaha)
 
 ## Table of Contents
 
@@ -52,5 +52,7 @@ Distributed under the MIT License. See [`LICENSE`](https://github.com/sinjoysaha
 Sinjoy Saha - [twitter@SinjoySaha](https://twitter.com/SinjoySaha)
             - [linkedin@sinjoysaha](https://linkedin.com/in/sinjoysaha)
 
-Project Link: [https://github.com/sinjoysaha/arcade-games](https://github.com/sinjoysaha/arcade-games)
+Project Link: [github.com/sinjoysaha/arcade-games](https://github.com/sinjoysaha/arcade-games)
+
+Website: [sinjoysaha.github.io/arcade-games](https://sinjoysaha.github.io/arcade-games)
 

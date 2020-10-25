@@ -57,6 +57,7 @@ header {
 .main-container {
     padding-top: 50px;
     margin: auto;
+    text-align: center;
 }
 .body-row {
     display: inline-block;

@@ -71,7 +71,9 @@ header {
     align-self: center;
 }
 @media screen and (max-width: 800px) {
-    width: 100%;
+    .col-3 {
+        width: 100%;
+    }
 }
 .square-cell {
     width: 90%;

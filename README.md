@@ -24,7 +24,7 @@
 
 Built with :heart: using plain javascript, [`Arcade Games`](https://sinjoysaha.github.io/arcade-games/) is a collection of the nostalgic coin-op games of the 70s to 90s era.
 
-[![Project Image](docs/images/projectimage.png)](https://sinjoysaha.github.io/arcade-games/)
+[![Project Image](docs/images/arcade-games-projectimage.png)](https://sinjoysaha.github.io/arcade-games/)
 
 ### Built With
 
